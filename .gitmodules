@@ -1,0 +1,6 @@
+[submodule "LOLC-Android"]
+	path = LOLC-Android
+	url = git@github.com:RynnHeldeD/LOLC-Android.git
+[submodule "LOLC-Server"]
+	path = LOLC-Server
+	url = git@github.com:RynnHeldeD/LOLC-Server.git
